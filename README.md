@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+[![Gmail Badge](https://img.shields.io/badge/-chagasairton0208@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chagasairton0208@gmail.com)](mailto:chagasairton0208@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/-airton-chagas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/airton-chagas/)](https://www.linkedin.com/in/airton-chagas/)
+---
 
 I am Airton Chagas! I'm fascinated in data science, machine learning and deep learning.
 - 👨🏽‍💻 Current work in deep learning and algorithms.

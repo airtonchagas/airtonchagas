@@ -8,9 +8,7 @@ I am Airton Chagas! I'm fascinated in data science, machine learning and deep le
 - 🤝 Looking for collaborations in deep learning, analytics and data science.
 - 💬 Talk to me about whether the Earth really is flat, whether time travel is possible, whether the headlights work at the speed of light and everything in between the possible and the impossible.
 
-<p align = "left">
+<p align = "center" margin = 5px>
   <img src = "https://github-readme-stats.vercel.app/api?username=airtonchagas&show_icons=true&theme=dracula&line_height=33">
-</p>
-<p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=airtonchagas&hide_langs_below=.25&theme=dracula">
 </p>

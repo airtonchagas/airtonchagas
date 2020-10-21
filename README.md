@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-chagasairton0208@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chagasairton0208@gmail.com)](mailto:chagasairton0208@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-airtonchagas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/airton-chagas/)](https://www.linkedin.com/in/airton-chagas/) 
+[![Gmail Badge](https://img.shields.io/badge/-chagasairton0208@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chagasairton0208@gmail.com)](mailto:chagasairton0208@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-airtonchagas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/airtonchagas/)](https://www.linkedin.com/in/airtonchagas/) 
 ---
 
 I'm Airton Chagas! I am fascinated by data science, artificial intelligence and everything that involves technology.
